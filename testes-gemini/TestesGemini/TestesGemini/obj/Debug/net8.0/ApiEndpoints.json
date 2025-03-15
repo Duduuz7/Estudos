@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "quickthink_back.Controllers.GeminiController",
+    "Method": "Search",
+    "RelativePath": "api/Gemini",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "txt",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
